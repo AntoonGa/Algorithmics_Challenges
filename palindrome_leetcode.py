@@ -26,6 +26,7 @@ Issue:
 
 
 def longestPalindrome(s: str) -> str:
+    
     def find_substrings(s: str, n: int) -> [str]:
         """Find all substring of size n in string s"""
 
