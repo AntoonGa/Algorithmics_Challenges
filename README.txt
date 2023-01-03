@@ -1,2 +1,3 @@
-# Algorithmics_Challenges
-Challenges from Leetcode, CodingGame and HackerRank
+"""
+Some interesting Algo challenges taken from all over !
+"""
